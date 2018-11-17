@@ -20,6 +20,8 @@ Shivam Kumar
 Satyam Singh 
 Kabir Farooqui
 Anjum Alvi
+18/11
+Vishal Sony*
 
 
 
@@ -27,3 +29,8 @@ Anjum Alvi
 
 
 <<<<<<< views
+17/11
+Victor Saha
+Avishek Bhattacharya
+
+
