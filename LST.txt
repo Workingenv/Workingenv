@@ -23,6 +23,7 @@ Anjum Alvi
 18/11
 Vishal Sony*
 Sachin Raj 
+Satish Halmara
 
 
 
@@ -33,5 +34,7 @@ Sachin Raj
 17/11
 Victor Saha
 Avishek Bhattacharya
+18/11
+Omprakash Garg
 
 
