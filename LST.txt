@@ -26,6 +26,8 @@ Sachin Raj
 Satish Halmara
 Anuradha Pandey*
 Krushna Patare 
+19/11
+Dilip Bhati
 
 
 
@@ -36,5 +38,8 @@ website: (setofinstructions,blogspot,com)
 18/11
 Omprakash Garg
 Bittu Das
+19/11
+Avishek Bhattacharya 
+
 
 
